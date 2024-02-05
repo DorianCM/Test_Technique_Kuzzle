@@ -1,0 +1,14 @@
+{
+  "application": {},
+  "validation": {
+    "index-test-technique": {
+      "chat-messages": {
+        "validators": [{
+          "regExp": {
+            "message": "/^*{0,2}$/"
+          }
+        }]
+      }
+    }
+  }
+}
