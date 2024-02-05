@@ -1,6 +1,7 @@
 ## Exécution
 Lancer le back (playground) : 
 - docker compose up -d
+
 Lancer le front (vue-project): 
 - npm i
 - npm run dev
